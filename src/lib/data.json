@@ -1,0 +1,80 @@
+[
+	{
+		"id": "1",
+		"message": "Hello, everyone! This is my first post.",
+		"imageURL": "https://picsum.photos/800/600",
+		"likes": 10,
+		"userId": "1",
+		"user": {
+			"id": "1",
+			"name": "John Doe",
+			"email": "johndoe@example.com",
+			"avatar": "https://picsum.photos/100/100"
+		}
+	},
+	{
+		"id": "2",
+		"message": "Check out this amazing sunset!",
+		"imageURL": "https://picsum.photos/800/600",
+		"likes": 25,
+		"userId": "2",
+		"user": {
+			"id": "2",
+			"name": "Jane Smith",
+			"email": "janesmith@example.com",
+			"avatar": "https://picsum.photos/100/100"
+		}
+	},
+	{
+		"id": "3",
+		"message": "Throwback to my vacation in Hawaii.",
+		"imageURL": "https://picsum.photos/800/600",
+		"likes": 15,
+		"userId": "3",
+		"user": {
+			"id": "3",
+			"name": "Alice Johnson",
+			"email": "alicejohnson@example.com",
+			"avatar": "https://picsum.photos/100/100"
+		}
+	},
+	{
+		"id": "4",
+		"message": "Just finished reading a great book. Highly recommended!",
+		"imageURL": "https://picsum.photos/800/600",
+		"likes": 8,
+		"userId": "2",
+		"user": {
+			"id": "2",
+			"name": "Jane Smith",
+			"email": "janesmith@example.com",
+			"avatar": "https://picsum.photos/100/100"
+		}
+	},
+	{
+		"id": "5",
+		"message": "I can't wait for the weekend!",
+		"imageURL": "https://picsum.photos/800/600",
+		"likes": 12,
+		"userId": "1",
+		"user": {
+			"id": "1",
+			"name": "John Doe",
+			"email": "johndoe@example.com",
+			"avatar": "https://picsum.photos/100/100"
+		}
+	},
+	{
+		"id": "6",
+		"message": "Celebrating my birthday today! 🎉",
+		"imageURL": "https://picsum.photos/800/600",
+		"likes": 30,
+		"userId": "4",
+		"user": {
+			"id": "4",
+			"name": "David Wilson",
+			"email": "davidwilson@example.com",
+			"avatar": "https://picsum.photos/100/100"
+		}
+	}
+]
